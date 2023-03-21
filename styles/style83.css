@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    height: 45em;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.yass {
+    text-align: center;
+    padding: 20em 0;
+}
+#yeah {
+    padding-top: 5em;
+}
+.omg {
+    font-size: 2em;
+    height: auto;
+}

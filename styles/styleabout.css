@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    height: 45em;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 3em;
+    font-size: 5em;
+}
+.strawberry {
+    height: 20em;
+    width: 80em;
+}

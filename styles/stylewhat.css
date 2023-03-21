@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+body {
+    width: 100%;
+    height: 45em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body p {
+    font-family: 'Times New Roman', Times, serif;
+}
